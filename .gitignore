@@ -9,3 +9,13 @@
 
 # OSX
 .DS_Store
+
+# generated .hpp
+src/bsoncxx/config/config.hpp
+src/bsoncxx/config/export.hpp
+src/bsoncxx/config/private/config.hpp
+src/bsoncxx/config/version.hpp
+src/mongocxx/config/config.hpp
+src/mongocxx/config/export.hpp
+src/mongocxx/config/private/config.hpp
+src/mongocxx/config/version.hpp
